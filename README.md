@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Tech Together NY 2021
+
+Project Overview: https://www.youtube.com/watch?v=45-JT--YjT8
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
