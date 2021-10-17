@@ -4,10 +4,10 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Team](#Team)
 
 ## Overview
 We worked in a team of 4 for this project. Our mobile and web app helps New Yorkers and tourists effectively navigate the subway system with our easy-to-use interface. By downloading our app or using our website, the user can check a regularly updated heat map of the New York City subway system to see live location updates of how crowded a particular train is, the condition of the station and train, and if there is an issue with a train or station. As the MTA has limited resources, they will be able to use the data that MetroEZ collects to determine which stations have the most foot-traffic, and invest in maintenance and accessibility in the stations that need it the most.
