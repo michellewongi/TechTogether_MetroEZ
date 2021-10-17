@@ -1,9 +1,5 @@
 # Tech Together NY 2021 Hackathon
 
-Project Overview: https://www.youtube.com/watch?v=45-JT--YjT8
-
-Hackathon Submission: https://devpost.com/software/metro-infrastructure?ref_content=my-projects-tab&ref_feature=my_projects
-
 # Table of contents
 
 - [Overview](#overview)
@@ -24,6 +20,7 @@ We worked in a team of 4 for this project. Our mobile and web app helps New York
 ### Links
 
 - TechTogether Submission: [https://devpost.com/software/metro-infrastructure?ref_content=my-projects-tab&ref_feature=my_projects]
+- Project Overview: [https://www.youtube.com/watch?v=45-JT--YjT8]
 
 ### Built with
 
