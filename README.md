@@ -32,6 +32,6 @@ We worked in a team of 4 for this project. Our mobile and web app helps New York
 ## Team
 
 - Frontend - [Michelle](https://michellewong.me/)
-- UX/UI - [Ti] (https://github.com/tdevwk)
-- Backend - [Ananya] (https://github.com/Ananya1306)
-- Backend - [Anastasia] (https://github.com/stillsteezin)
+- UX/UI - [Ti](https://github.com/tdevwk)
+- Backend - [Ananya](https://github.com/Ananya1306)
+- Backend - [Anastasia](https://github.com/stillsteezin)
