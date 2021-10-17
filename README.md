@@ -1,74 +1,40 @@
-#Tech Together NY 2021
+# Tech Together NY 2021 Hackathon
 
 Project Overview: https://www.youtube.com/watch?v=45-JT--YjT8
 
-Getting Started with Create React App
+Hackathon Submission: https://devpost.com/software/metro-infrastructure?ref_content=my-projects-tab&ref_feature=my_projects
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Table of contents
 
-## Available Scripts
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
 
-In the project directory, you can run:
+## Overview
+We worked in a team of 4 for this project. Our mobile and web app helps New Yorkers and tourists effectively navigate the subway system with our easy-to-use interface. By downloading our app or using our website, the user can check a regularly updated heat map of the New York City subway system to see live location updates of how crowded a particular train is, the condition of the station and train, and if there is an issue with a train or station. As the MTA has limited resources, they will be able to use the data that MetroEZ collects to determine which stations have the most foot-traffic, and invest in maintenance and accessibility in the stations that need it the most.
 
-### `npm start`
+### The challenge
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Unfamiliarity with syncing the frontend to the backend.
+- Working with React.js was intimidating because I wasn't very familiar with React.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Links
 
-### `npm test`
+- TechTogether Submission: [https://devpost.com/software/metro-infrastructure?ref_content=my-projects-tab&ref_feature=my_projects]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Built with
 
-### `npm run build`
+- React.js
+- HTML/CSS
+- Firebase
+- Node.js
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Team
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Frontend - [Michelle](https://michellewong.me/)
+- UX/UI - [Ti] (https://github.com/tdevwk)
+- Backend - [Ananya] (https://github.com/Ananya1306)
+- Backend - [Anastasia] (https://github.com/stillsteezin)
