@@ -24,8 +24,9 @@ We worked in a team of 4 for this project. Our mobile and web app helps New York
 
 ### Built with
 
-- React.js
-- HTML/CSS
+- ReactJS
+- HTML
+- CSS
 - Firebase
 - Node.js
 
